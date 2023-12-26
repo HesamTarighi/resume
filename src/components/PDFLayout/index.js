@@ -27,6 +27,8 @@ export default ({ resume }) => {
                             <Experience experience={experience} />
                         ))}
                     </View>
+
+                    <Projects items={resume.projects} />
                 </View>
 
                 <View style={styles.rightColumn}>
@@ -34,7 +36,6 @@ export default ({ resume }) => {
 
                     <Contact items={[...resume.contact, ...resume.social]} />
                     <SideBarItems items={resume.languages} title="Languages" />
-                    <Projects items={resume.projects} />
                     <SideBarItems items={resume.educations} title="Education" />
                 </View>
             </Page>

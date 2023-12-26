@@ -9,9 +9,8 @@ export default ({ experience }) => {
     return (
         <View style={{ marginBottom: 10 }}>
             <Text style={styles.roleTitle}>
-                {experience.role} -{" "}
                 {experience.url ? (
-                    <Link src={experience.url}>{experience.company}</Link>
+                    <Link src={experience.url}>{experience.role}</Link>
                 ) : (
                     <Text>{experience.company}</Text>
                 )}

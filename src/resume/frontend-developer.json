@@ -22,7 +22,7 @@
         },
         {
             "name": "linkedin",
-            "link": "linkedin.com/in/hesam-tarighi-99b107233",
+            "link": "https://linkedin.com/in/hesam-tarighi-99b107233",
             "title": "Hesam Tarighi"
         },
         {
@@ -32,7 +32,7 @@
         }
     ],
     "skills": [
-        "Proficiency in Javascript and OOP",
+        "Proficiency in Javascript",
         "Building web applications (PWA)",
         "Database design and SQL",
         "Problem-solving and analytical",
@@ -46,14 +46,14 @@
             "title": "Music Player",
             "url": "https://github.com/HesamTarighi/MusicPlayer",
             "thumbnail": "",
-            "stack": ["Electron.js", "Node.js", "TailwindCSS"],
+            "stack": ["Electron", "Node", "Tailwind"],
             "description": "Music player built with Electron.js for desktop "
         },
         {
             "title": "Image Resizer",
             "url": "https://github.com/HesamTarighi/ImageResizer",
             "thumbnail": "",
-            "stack": ["Electron.js", "Node.js", "TailwindCSS"],
+            "stack": ["Electron.js", "Node.js", "Tailwind"],
             "description": "A useful software for resizing photos"
         }
     ],
@@ -94,35 +94,6 @@
                 "A lot of debugging and gaining a lot of experience"
             ],
             "technologies": ["Vue.js", "Vite.js", "Node.js", "Express.js", "MongoDB", "TailwindCSS"]
-        },
-        {
-            "title": "<strong>Front End Developer</strong> at <strong>Allpha-X</strong> (1 day)",
-            "role": "Front End Developer",
-            "company": "",
-            "time": "1 day",
-            "type": "",
-            "url": "https://allpha-x.vercel.app/",
-            "description": "",
-            "responsibilities": [
-                "High quality codes",
-                "UI inspired by different and responsive sites",
-                "Team work experience"
-            ],
-            "technologies": ["Vue.js", "Nuxt.js", "TailwindCSS"]
-        },
-        {
-            "title": "<strong>Front End Developer</strong> at <strong>Deluxe</strong> (2 day)",
-            "role": "Front End Developer",
-            "company": "",
-            "time": "2 day",
-            "type": "",
-            "url": "https://allpha-x.vercel.app/",
-            "description": "",
-            "responsibilities": [
-                "High quality codes",
-                "UI inspired by different and responsive sites"
-            ],
-            "technologies": ["Vue.js", "TailwindCSS", "PWA"]
         }
     ]
 }
