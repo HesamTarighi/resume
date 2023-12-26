@@ -1,0 +1,128 @@
+{
+    "slug": "frontend-developer",
+    "name": "Mohammad Hesam Tarighi",
+    "title": "Frontend Developer",
+    "contact": [
+        {
+            "name": "email",
+            "title": "hmp9304@gmail.com",
+            "link": "mailto:hmp9304@gmail.com"
+        },
+        {
+            "name": "phone",
+            "title": "+989910138705",
+            "link": "tel:+989910138705"
+        }
+    ],
+    "social": [
+        {
+            "name": "github",
+            "link": "https://github.com/HesamTarighi/",
+            "title": "Hesam Tarighi"
+        },
+        {
+            "name": "linkedin",
+            "link": "linkedin.com/in/hesam-tarighi-99b107233",
+            "title": "Hesam Tarighi"
+        },
+        {
+            "name": "website",
+            "link": "https://hesamtarighi.iran.liara.run/",
+            "title": "Personal Website"
+        }
+    ],
+    "skills": [
+        "Proficiency in Javascript and OOP",
+        "Building web applications (PWA)",
+        "Database design and SQL",
+        "Problem-solving and analytical",
+        "Teamwork and collaboration",
+        "Backend development skills",
+        "Continuous learner",
+        "Proficient in design patterns"
+    ],
+    "projects": [
+        {
+            "title": "Music Player",
+            "url": "https://github.com/HesamTarighi/MusicPlayer",
+            "thumbnail": "",
+            "stack": ["Electron.js", "Node.js", "TailwindCSS"],
+            "description": "Music player built with Electron.js for desktop "
+        },
+        {
+            "title": "Image Resizer",
+            "url": "https://github.com/HesamTarighi/ImageResizer",
+            "thumbnail": "",
+            "stack": ["Electron.js", "Node.js", "TailwindCSS"],
+            "description": "A useful software for resizing photos"
+        }
+    ],
+    "languages": ["Persian (Native)", "English (Intermediate)"],
+    "educations": ["Diploma degree in Hardware"],
+    "about": "I am an experienced Front-End developer with expertise in HTML, CSS, JavaScript and the Vue.js framework. I have skills in backend development and API writing. Committed to delivering high quality results within specified deadlines. Problem solving ability and ability to adapt to evolving technologies. Excellent collaboration and communication skills. Interested in continuous learning and staying up-to-date and looking for job opportunities to enhance resume and skills.",
+    "experiences": [
+        {
+            "title": "<strong>Fullstack Developer</strong> at <strong>Gamer</strong> (3 month)",
+            "role": "Fullstack Developer",
+            "company": "",
+            "time": "May 2022 - May 2023",
+            "type": "",
+            "url": "https://github.com/HesamTarighi/gamer",
+            "description": "",
+            "responsibilities": [
+                "Working as a full-stack and single person in a large e-commerce project",
+                "Experiencing the Back-End (Node.js and Express.js) of a large project",
+                "Experience working with MangoDB in a e-commerce project",
+                "Experience writing Restful API for e-commerce project",
+                "It has many different sections, including the CMS section"
+            ],
+            "technologies": ["Vue.js", "Nuxt.js", "Node.js", "Express.js", "MongoDB", "TailwindCSS"]
+        },
+        {
+            "title": "<strong>Fullstack Developer</strong> at <strong>Personal Website(Hesam Tarighi)</strong> (1 month)",
+            "role": "Fullstack Developer",
+            "company": "",
+            "time": "May 2022 - May 2023",
+            "type": "",
+            "url": "https://hesamtarighi.iran.liara.run/",
+            "description": "",
+            "responsibilities": [
+                "My personal website",
+                "Experience in creating CMS for site content management",
+                "Experiencing the Back-End (Node.js and Express.js) of a large project",
+                "Experienced professional work with Vue.js and Node.js",
+                "A lot of debugging and gaining a lot of experience"
+            ],
+            "technologies": ["Vue.js", "Vite.js", "Node.js", "Express.js", "MongoDB", "TailwindCSS"]
+        },
+        {
+            "title": "<strong>Front End Developer</strong> at <strong>Allpha-X</strong> (1 day)",
+            "role": "Front End Developer",
+            "company": "",
+            "time": "May 2022 - May 2023",
+            "type": "",
+            "url": "https://allpha-x.vercel.app/",
+            "description": "",
+            "responsibilities": [
+                "High quality codes",
+                "UI inspired by different and responsive sites",
+                "Team work experience"
+            ],
+            "technologies": ["Vue.js", "Nuxt.js", "TailwindCSS"]
+        },
+        {
+            "title": "<strong>Front End Developer</strong> at <strong>Deluxe</strong> (2 day)",
+            "role": "Front End Developer",
+            "company": "",
+            "time": "May 2022 - May 2023",
+            "type": "",
+            "url": "https://allpha-x.vercel.app/",
+            "description": "",
+            "responsibilities": [
+                "High quality codes",
+                "UI inspired by different and responsive sites"
+            ],
+            "technologies": ["Vue.js", "TailwindCSS", "PWA"]
+        }
+    ]
+}

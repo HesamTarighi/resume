@@ -22,7 +22,7 @@ export default ({ resume }) => {
                     <Summary text={resume.about} />
 
                     <View style={styles.section}>
-                        <Text style={styles.title}>Experiences</Text>
+                        <Text style={styles.title}>Project experiences</Text>
                         {resume.experiences.map((experience) => (
                             <Experience experience={experience} />
                         ))}

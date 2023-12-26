@@ -3,7 +3,7 @@
  */
 module.exports = {
     siteMetadata: {
-        title: `Resume Mohammad Javad Ghasemy`,
+        title: `Resume Mohammad Hesam Tarighi`,
         siteUrl: `https://resume.geeksesi.ir`,
     },
     plugins: [

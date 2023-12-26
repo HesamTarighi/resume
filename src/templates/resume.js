@@ -1,10 +1,10 @@
 import * as React from "react";
 import Layout from "../components/Layout";
 import "../styles/index.css";
-import avatar from "../assets/images/me.jpg";
+import avatar from "../assets/images/me.jpeg";
 import github from "../assets/images/github.png";
 import linkedIn from "../assets/images/linkedin.png";
-import youtube from "../assets/images/youtube.png";
+import website from "../assets/images/website.png";
 import { graphql } from "gatsby";
 import Projects from "../components/Resume/Projects";
 import PDFLayout from "../components/PDFLayout/index";
@@ -14,7 +14,7 @@ export default (data) => {
     const socials = {
         github: github,
         linkedin: linkedIn,
-        youtube: youtube,
+        website: website,
     };
     const resume = data.data.resumeJson;
     const fileName = `${resume.name.replace(" ", "-")}-${resume.slug}.pdf`;
@@ -99,7 +99,7 @@ export default (data) => {
                         </div>
                         <div className="px-10">
                             <div className="mx-auto border-l-2 border-black border-opacity-70 my-7">
-                                <h3 className="p-4 text-2xl">Experiences</h3>
+                                <h3 className="p-4 text-2xl">Project experiences</h3>
                                 {resume.experiences.map((item, index) => (
                                     <article className="py-4" key={index}>
                                         <ul className="dot-margin list-disc list-inside text-sm align-top font-sans">
@@ -143,7 +143,7 @@ export default (data) => {
     );
 };
 
-export const Head = () => <title>Resume Mohammad Javad Ghasemy</title>;
+export const Head = () => <title>Resume Mohammad Hesam Tarighi</title>;
 
 export const query = graphql`
     query ($slug: String!) {

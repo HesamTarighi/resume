@@ -3,9 +3,9 @@ import { Link, navigate } from "gatsby";
 
 export default () => {
     if (typeof window !== `undefined`) {
-        navigate("/backend-developer");
+        navigate("/frontend-developer");
     }
-    return <Link to="/backend-developer/"></Link>;
+    return <Link to="/frontend-developer/"></Link>;
 };
 
-export const Head = () => <title>Resume Mohammad Javad Ghasemy</title>;
+export const Head = () => <title>Resume Mohammad Hesam Tarighi</title>;
