@@ -1,7 +1,7 @@
 {
-    "slug": "frontend-developer",
+    "slug": "backend-developer",
     "name": "Mohammad Hesam Tarighi",
-    "title": "Frontend Developer",
+    "title": "Backend Developer",
     "contact": [
         {
             "name": "email",
@@ -59,7 +59,7 @@
     ],
     "languages": ["Persian (Native)", "English (Intermediate)"],
     "educations": ["Diploma degree in Hardware"],
-    "about": "I am an experienced Front-End developer with expertise in HTML, CSS, JavaScript and the Vue.js framework. I have skills in backend development and API writing. Committed to delivering high quality results within specified deadlines. Problem solving ability and ability to adapt to evolving technologies. Excellent collaboration and communication skills. Interested in continuous learning and staying up-to-date and looking for job opportunities to enhance resume and skills.",
+    "about": "I am an experienced Back-End developer with expertise in Node.js and the Express.js framework. I have skills in backend development and API writing. Committed to delivering high quality results within specified deadlines. Problem solving ability and ability to adapt to evolving technologies. Excellent collaboration and communication skills. Interested in continuous learning and staying up-to-date and looking for job opportunities to enhance resume and skills.",
     "experiences": [
         {
             "title": "<strong>Fullstack Developer</strong> at <strong>Gamer</strong> (3 month)",
