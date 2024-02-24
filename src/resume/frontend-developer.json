@@ -111,6 +111,35 @@
                 "Fully Responsive Website"
             ],
             "technologies": ["Vue.js", "Vite.js", "Swiper.js", "TailwindCSS", "DaisyUI"]
+        },
+        {
+            "title": "<strong>Frontend Developer</strong> at <strong>AllphaX</strong> (1 month)",
+            "role": "Frontend Developer",
+            "company": "",
+            "time": "2 days",
+            "type": "",
+            "url": "https://allpha-x.vercel.app",
+            "description": "",
+            "responsibilities": [
+                "Company website",
+                "Team work",
+                "A new experience from the Tailwind",
+                "Fully Responsive Website"
+            ],
+            "technologies": ["Vue.js", "Nuxt.js", "Swiper.js", "TailwindCSS"]
+        },
+        {
+            "title": "<strong>Frontend Developer</strong> at <strong>Deluxe</strong> (1 month)",
+            "role": "Frontend Developer",
+            "company": "",
+            "time": "2 days",
+            "type": "",
+            "url": "https://deluxe-cars.vercel.app",
+            "description": "",
+            "responsibilities": [
+                "Fully Responsive Website"
+            ],
+            "technologies": ["Vue.js", "Vite.js", "TailwindCSS"]
         }
     ]
 }
