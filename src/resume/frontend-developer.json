@@ -54,8 +54,22 @@
             "title": "Image Resizer",
             "url": "https://github.com/HesamTarighi/ImageResizer",
             "thumbnail": "",
-            "stack": ["Electron.js", "Node.js", "Tailwind"],
+            "stack": ["Electron", "Node", "Tailwind"],
             "description": "A useful software for resizing photos"
+        },
+        {
+            "title": "Password Generator (Telegram Bot)",
+            "url": "https://github.com/HesamTarighi/PasswordGenerator",
+            "thumbnail": "",
+            "stack": ["Node", "TypeScript", "Telegraf"],
+            "description": "A Telegram bot for random password generation"
+        },
+        {
+            "title": "Cryptocurrency (Telegram Bot)",
+            "url": "https://github.com/HesamTarighi/CryptocurrencyBot",
+            "thumbnail": "",
+            "stack": ["Node", "API", "Telegraf"],
+            "description": "A Telegram bot for get cryptocurrency price"
         }
     ],
     "languages": ["Persian (Native)", "English (Intermediate)"],
@@ -74,7 +88,7 @@
                 "Working as a full-stack and single person in a large e-commerce project",
                 "Experiencing the Back-End (Node.js and Express.js) of a large project",
                 "Experience working with MangoDB in a e-commerce project",
-                "Experience writing Restful API for e-commerce project",
+                "Experienced professional writing Restful API for e-commerce project",
                 "It has many different sections, including the CMS section"
             ],
             "technologies": ["Vue.js", "Nuxt.js", "Node.js", "Express.js", "MongoDB", "TailwindCSS"]
@@ -92,6 +106,7 @@
                 "Experience in creating CMS for site content management",
                 "Experiencing the Back-End (Node.js and Express.js) of a large project",
                 "Experienced professional work with Vue.js and Node.js",
+                "Experience writing Restful API",
                 "A lot of debugging and gaining a lot of experience"
             ],
             "technologies": ["Vue.js", "Vite.js", "Node.js", "Express.js", "MongoDB", "TailwindCSS"]
