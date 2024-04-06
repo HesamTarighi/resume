@@ -124,7 +124,7 @@ export default (data) => {
                                                             {item.technologies.map((item, index) => (
                                                                 <span
                                                                     key={index}
-                                                                    dangerouslySetInnerHTML={{ __html: item }}
+                                                                    dangerouslySetInnerHTML={{ __html: item + ',' }}
                                                                 ></span>
                                                             ))}
                                                         </div>

@@ -15,7 +15,7 @@ export default ({ experience }) => {
                     <Text>{experience.company}</Text>
                 )}
                 <Text style={styles.subText}>
-                    {" "}
+                    {""}
                     - {experience.time} - {experience.type}
                 </Text>
             </Text>
