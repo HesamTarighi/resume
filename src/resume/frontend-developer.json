@@ -77,6 +77,7 @@
     "about": "I am a front-end developer specializing in HTML, CSS, JavaScript and the Vue.js framework. I am skilled in backend development and API writing. Because of my great interest in computer and programming, I enrolled in the programming academy (Tarasheh) and learned HTML and CSS in the academy, and then learned JavaScript, VueJS, NodeJS and other skills on YouTube and reading the documentation. I have many small and large portfolios and I've worked with several small programming teams and I've done several projects and I'm looking to learn and expand my skills. I am committed to deliver high quality results within set deadlines. Problem solving ability and ability to adapt to evolving technologies. Excellent collaboration and communication skills. Interested in continuous learning and staying up-to-date and looking for job opportunities to enhance resume and skills.",
     "experiences": [
         {
+            "name": "Gamer",
             "title": "<strong>Fullstack Developer</strong> at <strong>Gamer</strong> (3 month)",
             "role": "Fullstack Developer",
             "company": "",
@@ -94,6 +95,7 @@
             "technologies": ["Vue.js", "Nuxt.js", "Node.js", "Express.js", "MongoDB", "TailwindCSS"]
         },
         {
+            "name": "Personal Website(Hesam Tarighi)",
             "title": "<strong>Fullstack Developer</strong> at <strong>Personal Website(Hesam Tarighi)</strong> (1 month)",
             "role": "Fullstack Developer",
             "company": "",
@@ -112,6 +114,7 @@
             "technologies": ["Vue.js", "Vite.js", "Node.js", "Express.js", "MongoDB", "TailwindCSS"]
         },
         {
+            "name": "Movie Mood",
             "title": "<strong>Frontend Developer</strong> at <strong>Movie Mood</strong> (1 month)",
             "role": "Frontend Developer",
             "company": "",
@@ -122,12 +125,13 @@
             "responsibilities": [
                 "Movie and series website",
                 "It has many different sections",
-                "A new experience from the PWA",
+                "Experience using API",
                 "Fully Responsive Website"
             ],
             "technologies": ["Vue.js", "Vite.js", "Swiper.js", "TailwindCSS", "DaisyUI"]
         },
         {
+            "name": "AllphaX",
             "title": "<strong>Frontend Developer</strong> at <strong>AllphaX</strong> (1 month)",
             "role": "Frontend Developer",
             "company": "",
@@ -144,6 +148,7 @@
             "technologies": ["Vue.js", "Nuxt.js", "Swiper.js", "TailwindCSS"]
         },
         {
+            "name": "Deluxe",
             "title": "<strong>Frontend Developer</strong> at <strong>Deluxe</strong> (1 month)",
             "role": "Frontend Developer",
             "company": "",

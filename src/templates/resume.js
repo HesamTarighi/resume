@@ -172,6 +172,7 @@ export const query = graphql`
             }
             about
             experiences {
+                name
                 title
                 role
                 company
