@@ -1,7 +1,7 @@
 {
-    "slug": "frontend-developer",
+    "slug": "fullstack-developer",
     "name": "Mohammad Hesam Tarighi",
-    "title": "Frontend Developer",
+    "title": "Fullstack Developer",
     "contact": [
         {
             "name": "email",
@@ -32,15 +32,18 @@
         }
     ],
     "skills": [
-        "Proficiency in Javascript and TypeScript",
+        "Professional mastery of Javascript and TypeScript",
+        "Professional mastery of Node and Vue",
         "Building web applications (PWA)",
         "Database design and SQL",
         "Problem-solving and analytical",
         "Teamwork and collaboration",
+        "Frontend development skills",
         "Backend development skills",
         "Continuous learner",
         "Proficient in design patterns",
-        "Skill in making web applications"
+        "Skill in making web applications",
+        "Responsive site skills in different size"
     ],
     "projects": [
         {
@@ -74,8 +77,75 @@
     ],
     "languages": ["Persian (Native)", "English (Intermediate)"],
     "educations": ["Diploma degree in Hardware"],
-    "about": "I am a front-end developer specializing in HTML, CSS, JavaScript and the Vue.js framework. I am skilled in backend development and API writing. Because of my great interest in computer and programming, I enrolled in the programming academy (Tarasheh) and learned HTML and CSS in the academy, and then learned JavaScript, VueJS, NodeJS and other skills on YouTube and reading the documentation. I have many small and large portfolios and I've worked with several small programming teams and I've done several projects and I'm looking to learn and expand my skills. I am committed to deliver high quality results within set deadlines. Problem solving ability and ability to adapt to evolving technologies. Excellent collaboration and communication skills. Interested in continuous learning and staying up-to-date and looking for job opportunities to enhance resume and skills.",
+    "about": "I am a fullstack developer specializing in JavaScript and the Typescript. I am skilled in backend and frontend development. Because of my great interest in computer and programming, I enrolled in the programming academy (Tarasheh) and learned HTML and CSS in the academy, and then learned JavaScript, Typescript, VueJS, NodeJS and other skills on YouTube and reading the documentation. I have many small and large portfolios and I've worked with several programming teams and I've done several projects and I'm looking to learn and expand my skills. I am committed to deliver high quality results within set deadlines. Problem solving ability and ability to adapt to evolving technologies. Excellent collaboration and communication skills. Interested in continuous learning and staying up-to-date and looking for job opportunities to enhance resume and skills.",
     "experiences": [
+        {
+            "name": "Webpoosh",
+            "title": "<strong>Fronted Developer</strong> at <strong>Webpoosh</strong> (2 month)",
+            "role": "Frontend Developer",
+            "company": "",
+            "time": "2 month",
+            "type": "",
+            "url": "https://www.webpoosh.com/",
+            "description": "",
+            "responsibilities": [
+                "Working as a frontend-developer in a large e-commerce project",
+                "Experiencing the Front-End of a large project",
+                "Team work experience"
+            ],
+            "technologies": ["Vue.js", "TailwindCSS"]
+        },
+        {
+            "name": "Flytoday",
+            "title": "<strong>Backend Developer</strong> at <strong>Flytoday</strong> (3 month)",
+            "role": "Backend Developer",
+            "company": "",
+            "time": "3 month",
+            "type": "",
+            "url": "https://www.flytoday.ir/",
+            "description": "",
+            "responsibilities": [
+                "Working as a backend-developer in a large e-commerce project",
+                "Experiencing the Back-End of a large project",
+                "Team work experience",
+                "Experience writing a large CMS",
+                "Experienced professional writing Restful API for e-commerce project"
+            ],
+            "technologies": ["Node.js", "Express.js", "MongoDB"]
+        },
+        {
+            "name": "Dark office",
+            "title": "<strong>TelegramBot Developer</strong> at <strong>Dark office</strong> (1 week)",
+            "role": "TelegramBot Developer",
+            "company": "",
+            "type": "",
+            "url": "https://web.telegram.org/a/#7024098004",
+            "description": "",
+            "responsibilities": [
+                "Telegram bot development experience",
+                "Telegram group management bot",
+                "Admin panel for the bot"
+            ],
+            "technologies": ["Node.js", "Express.js", "Telegraf.js"]
+        },
+        {
+            "name": "Banimode",
+            "title": "<strong>Fronted Developer</strong> at <strong>Banimode</strong> (1 month)",
+            "role": "Frontend Developer",
+            "company": "",
+            "time": "1 month",
+            "type": "",
+            "url": "https://www.banimode.com/",
+            "description": "",
+            "responsibilities": [
+                "Working as a frontend-developer in a large e-commerce project",
+                "Experiencing the Front-End of a large project",
+                "Team work experience",
+                "Building a web application",
+                "It has many different sections, including the CMS section"
+            ],
+            "technologies": ["Vue.js", "Nuxt.js", "PWA", "TailwindCSS"]
+        },
         {
             "name": "Gamer",
             "title": "<strong>Fullstack Developer</strong> at <strong>Gamer</strong> (3 month)",
@@ -115,10 +185,10 @@
         },
         {
             "name": "Movie Mood",
-            "title": "<strong>Frontend Developer</strong> at <strong>Movie Mood</strong> (1 month)",
+            "title": "<strong>Frontend Developer</strong> at <strong>Movie Mood</strong> (3 days)",
             "role": "Frontend Developer",
             "company": "",
-            "time": "1 month",
+            "time": "3 day",
             "type": "",
             "url": "https://moviemood.vercel.app",
             "description": "",
@@ -132,7 +202,7 @@
         },
         {
             "name": "AllphaX",
-            "title": "<strong>Frontend Developer</strong> at <strong>AllphaX</strong> (1 month)",
+            "title": "<strong>Frontend Developer</strong> at <strong>AllphaX</strong> (1 day)",
             "role": "Frontend Developer",
             "company": "",
             "time": "2 days",
@@ -149,7 +219,7 @@
         },
         {
             "name": "Deluxe",
-            "title": "<strong>Frontend Developer</strong> at <strong>Deluxe</strong> (1 month)",
+            "title": "<strong>Frontend Developer</strong> at <strong>Deluxe</strong> (2 days)",
             "role": "Frontend Developer",
             "company": "",
             "time": "2 days",
@@ -160,6 +230,22 @@
                 "Fully Responsive Website"
             ],
             "technologies": ["Vue.js", "Vite.js", "TailwindCSS"]
+        },
+        {
+            "name": "Bitszn",
+            "title": "<strong>Frontend Developer</strong> at <strong>Bitszn</strong> (4 days)",
+            "role": "Frontend Developer",
+            "company": "",
+            "time": "4 days",
+            "type": "",
+            "url": "https://bitszn.vercel.app/",
+            "description": "",
+            "responsibilities": [
+                "Fully Responsive Website",
+                "Team work experience",
+                "The first project with SCSS and gaining a lot of experience"
+            ],
+            "technologies": ["Html", "Javascript", "SCSS"]
         }
     ]
 }
