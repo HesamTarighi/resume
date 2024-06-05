@@ -33,17 +33,18 @@
     ],
     "skills": [
         "Professional mastery of Javascript and TypeScript",
-        "Professional mastery of Node and Vue",
-        "Building web applications (PWA)",
-        "Database design and SQL",
+        "Experience working with Babylon JS for 3D modeling",
+        "Professional mastery of Vue and Nuxt",
+        "Professional mastery of Node and Express",
+        "Experience working with MySQL and MongoDB",
         "Problem-solving and analytical",
         "Teamwork and collaboration",
         "Frontend development skills",
         "Backend development skills",
         "Continuous learner",
         "Proficient in design patterns",
-        "Skill in making web applications",
-        "Responsive site skills in different size"
+        "Skill in making web applications (PWA) and desktop applications and Telegram bots",
+        "Responsive site skill in different size"
     ],
     "projects": [
         {
@@ -77,7 +78,7 @@
     ],
     "languages": ["Persian (Native)", "English (Intermediate)"],
     "educations": ["Diploma degree in Hardware"],
-    "about": "I am a fullstack developer specializing in JavaScript and the Typescript. I am skilled in backend and frontend development. Because of my great interest in computer and programming, I enrolled in the programming academy (Tarasheh) and learned HTML and CSS in the academy, and then learned JavaScript, Typescript, VueJS, NodeJS and other skills on YouTube and reading the documentation. I have many small and large portfolios and I've worked with several programming teams and I've done several projects and I'm looking to learn and expand my skills. I am committed to deliver high quality results within set deadlines. Problem solving ability and ability to adapt to evolving technologies. Excellent collaboration and communication skills. Interested in continuous learning and staying up-to-date and looking for job opportunities to enhance resume and skills.",
+    "about": "I am a fullstack developer specializing in JavaScript and Typescript. I am skilled in backend and frontend development. Because of my great interest in computer and programming, I enrolled in the programming academy (Tarasheh) and learned HTML and CSS in the academy, and then learned JavaScript, Typescript, VueJS, NodeJS and other skills on YouTube and reading the documentation. I have many small and large portfolios and I've worked with several programming teams and I've done several projects and I'm looking to learn and expand my skills. I am committed to deliver high quality results within set deadlines. Problem solving ability and ability to adapt to evolving technologies. Excellent collaboration and communication skills. Interested in continuous learning and staying up-to-date and looking for job opportunities to enhance resume and skills.",
     "experiences": [
         {
             "name": "Webpoosh",
